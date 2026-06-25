@@ -9,4 +9,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/harsh0singh/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
+## Array
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/harsh0singh/LeetCode/tree/master/0011-container-with-most-water) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/harsh0singh/LeetCode/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/harsh0singh/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
